@@ -10,7 +10,7 @@ Full dataset and the dashboard built using **pivot tables**, **slicers**, and **
 
 Click below to watch the interactive Excel dashboard in action:
 
-[🎥 View Dashboard Video](Dashboard%20video.mp4)
+[🎥 Download Dashboard Video](Dashboard%20video.mp4)
 
 
 **Dashboard Highlights**
