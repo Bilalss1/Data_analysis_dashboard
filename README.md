@@ -6,6 +6,11 @@ Full dataset and the dashboard built using **pivot tables**, **slicers**, and **
 
 <img width="1842" height="782" alt="Dashboard" src="https://github.com/user-attachments/assets/c40c1813-23a2-4fe3-9194-6a283dbd91c3" />
 
+## Dashboard Demo
+Click to watch the dashboard walkthrough:
+
+[View Dashboard Video](Sales%20dashboard.mp4)
+
 **Dashboard Highlights**
 The dashboard answers a few simple but important questions:
 
